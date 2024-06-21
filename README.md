@@ -1,0 +1,1 @@
+Projeto de Back-End onde foi desenvolvido um CRUD para a criação de uma loja de itens medievais, no formato de uma API, utilizando Typescript e Sequelize. As camadas de Service e Controllers da aplicação foram desenvolvidas utilizando JWT para autenticar algumas rotas, além de testes para garantir o correto funcionamento delas.
